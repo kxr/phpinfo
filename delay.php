@@ -1,7 +1,6 @@
 <?php
 
-echo '<h3> First Line </h3>';
-sleep(10);
-echo '<h3> 2nd Line (after 10s) </h3>';
+sleep(50);
+echo '<h3> Response after 60s </h3>';
 
 ?>
